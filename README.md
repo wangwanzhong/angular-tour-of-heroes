@@ -1,27 +1,81 @@
-# angular-tour-of-heroes
-This project was generated from [angular-tour-of-heroes](https://angular.cn/tutorial).
+# 项目介绍
+本项目代码来自 Angular 官网中文版 [教程：英雄指南](https://angular.cn/tutorial)，并在以下方面做了微量调整
 
-## 1. Quickstart
+ - 目录结构
+ - 添加后端服务器
 
-## 2. The Hero Editor
+## 运行
+安装新版 nodejs 并执行以下命令
+
+    git clone https://github.com/wangwanzhong/angular-tour-of-heroes.git
+    cd angular-tour-of-heroes
+    npm install
+    npm start
+    
+   在浏览器中打开 http://localhost:4200
+
+## 章节
+
+### 1. 快速上手
+
+	tag: v0-init
+	
+- [环境部署](https://angular.cn/guide/quickstart) 
+- [Angular CLI](https://cli.angular.io/)
+
+
+### 2. 英雄编辑器
+
+	tag: v2-hero_edit
+
+- 组件
 - 数据绑定（单向、双向）
+
+
+### 3. 主从结构
+
+	tag: v3-master_view
+
 - 模板指令
+- 命名规则
 
-## 3. MasterDetail
 
-## 4. MultipleComponents
+### 4. 多个组件
+
+	tag: v4-multi_component
+
+- 组件树
+- 数据流
 - 单一职责原则
-- 中线命名法
-- 解耦
 
-## 5. Services
 
-## 6. Routing
-- Add a Dashboard view.
-- Navigate between the Heroes and Dashboard views.
-- Clicking on a hero in either view navigates to a detail view of the selected hero.
-- Clicking a deep link in an email opens the detail view for a particular hero.
+### 5. 服务
 
-## 7. Http
-- Simulating the web API
-- Http option (get/post/put/delete/save)
+	tag: v5-provider
+
+- 依赖注入解耦
+- 生命周期钩子
+
+
+### 6. 路由
+
+	tag: v6-router
+	tag: v6.1-construct
+
+- 路由
+- 管道
+
+
+### 7. Http
+
+	tag: v7-http
+
+- Rxjs
+- Promise
+
+### 8. 后端服务器
+
+	tag: v8-back_end_server
+	
+	
+[back-end-angular-heroes](https://github.com/wangwanzhong/back-end-angular-heroes)
