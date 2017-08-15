@@ -12,6 +12,7 @@ This project was generated from [angular-tour-of-heroes](https://angular.cn/tuto
 ## 4. MultipleComponents
 - 单一职责原则
 - 中线命名法
+- 解耦
 
 ## 5. Services
 
