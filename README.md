@@ -1,28 +1,26 @@
-# MyApp
+# angular-tour-of-heroes
+This project was generated from [angular-tour-of-heroes](https://angular.cn/tutorial).
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.3.0.
+## 1. Quickstart
 
-## Development server
+## 2. The Hero Editor
+- 数据绑定（单向、双向）
+- 模板指令
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+## 3. MasterDetail
 
-## Code scaffolding
+## 4. MultipleComponents
+- 单一职责原则
+- 中线命名法
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## 5. Services
 
-## Build
+## 6. Routing
+- Add a Dashboard view.
+- Navigate between the Heroes and Dashboard views.
+- Clicking on a hero in either view navigates to a detail view of the selected hero.
+- Clicking a deep link in an email opens the detail view for a particular hero.
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `-prod` flag for a production build.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-Before running the tests make sure you are serving the app via `ng serve`.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+## 7. Http
+- Simulating the web API
+- Http option (get/post/put/delete/save)
