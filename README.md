@@ -74,7 +74,7 @@
 - Rxjs
 - Promise
 
-### 8. 后端服务器
+### 8. 服务端
 
 	tag: v8-back_end_server
 	
