@@ -14,7 +14,7 @@
     
    在浏览器中打开 http://localhost:4200
 
-## 章节
+## 章节要点
 
 ### 1. 快速上手
 
@@ -47,6 +47,7 @@
 - 组件树
 - 数据流
 - 单一职责原则
+- DRY
 
 
 ### 5. 服务
@@ -78,5 +79,7 @@
 
 	tag: v8-back_end_server
 	
-	
 - [back-end-angular-heroes](https://github.com/wangwanzhong/back-end-angular-heroes)
+
+
+### 9. 动画
